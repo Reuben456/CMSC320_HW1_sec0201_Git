@@ -3,3 +3,5 @@ Answer: Git helps us track different versions and allows us to collaborate on pr
 
 Q2: What field could data science be applied to? Give an example.
 Answer: Agriculture - tracking how plants grow over large datasets could be helpful in improving crop yield
+Q3: What is the difference between Merging and Rebasing?
+Answer: Merge combines the past files and combines them all into a commit. Rebase is important in adding the commits to the specific branch to add to the history
